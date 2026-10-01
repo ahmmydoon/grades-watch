@@ -26,6 +26,13 @@
 
 ---
 
+## 🖼️ Screenshots
+
+| Terminal | Notifications |
+|:--------:|:-------------:|
+| <img src="./example/console.png" width="250"> | <img src="./example/notifs.png" width="250"> |
+
+
 ## 📲 Installation
 
 ### 1 — Get the apps from F-Droid
