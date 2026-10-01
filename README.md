@@ -28,10 +28,13 @@
 
 ## 🖼️ Screenshots
 
+<div align="center">
+
 | Terminal | Notifications |
 |:--------:|:-------------:|
 | <img src="./example/console.png" width="250"> | <img src="./example/notifs.png" width="250"> |
 
+</div>
 
 ## 📲 Installation
 
