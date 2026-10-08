@@ -77,7 +77,7 @@ pkg install -y git curl jq openssl-tool termux-api
 ### 3 — Clone the repo
 
 ```bash
-git clone https://github.com/ahmmydoon/grades-watch.git ~/
+git clone https://github.com/ahmmydoon/grades-watch.git ~/grades-watch
 cd grades-watch
 chmod +x grades-watch.sh
 ./grades-watch.sh --test-notify   # verifies the notification setup
