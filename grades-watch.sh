@@ -56,7 +56,7 @@ HOST=""                     # API host (--host)
 # It exits before any prompt/request when --host doesn't match. To change
 # the API host on purpose, recompute and paste the new value:
 #   printf '%s' 'new.host.example.com' | sha256sum
-PINNED_HOST_SHA256='f8db2a545d3c310af73d49f54696a771ec6878bc3ba337f953f347a4c88fd615'
+PINNED_HOST_SHA256='ab4f7977dae569c0a9b1badc90fecb44d59d7c7653e4fc878aa4cbff48accb6e'
 CHANNEL="NewGrade"         # Android notification channel
 UA_OPTS=(-A "okhttp/3.14.9")   # User-Agent matching the mobile app
 
