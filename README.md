@@ -98,18 +98,6 @@ them **encrypted** in `~/.grades-watch/`, and never asks again.
 
 **You can close the Termux app while it's checking.**
 
-While it runs, one line live-refreshes on screen:
-
-```
-[20:43:06] check #57: You'll get a notification once new marks get submitted
-```
-
-…and when a mark lands, you get:
-
-> **علامة جديدة للسنة 4**
-
-> تسويق وإدارة مشاريع: 22 نظري + 66 عملي = 88 ناجح 🥳
-
 <details>
 <summary>Optional flags</summary>
 
@@ -128,13 +116,11 @@ Reset everything (forget credentials + remembered grades):
 rm -rf ~/.grades-watch
 ```
 
-
 Update script:
 
 ```bash
 cd ~/grades-watch && git pull
 ```
-
 
 ## 🔎 Finding your `--host`
 
