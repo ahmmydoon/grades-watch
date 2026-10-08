@@ -106,9 +106,9 @@ While it runs, one line live-refreshes on screen:
 
 …and when a mark lands, you get:
 
-> **علامة جديدة للسنة 3**
+> **علامة جديدة للسنة 4**
 
-> اتصالات رقمية و تشابهية 25 نظري + 20 عملي = 45 راسب 😔
+> تسويق وإدارة مشاريع: 22 نظري + 66 عملي = 88 ناجح 🥳
 
 <details>
 <summary>Optional flags</summary>
