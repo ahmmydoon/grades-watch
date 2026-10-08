@@ -77,7 +77,7 @@ pkg install -y git curl jq openssl-tool termux-api
 ### 3 — Clone the repo
 
 ```bash
-git clone https://github.com/GhostasDead/grades-watch.git
+git clone https://github.com/ahmmydoon/grades-watch.git ~/
 cd grades-watch
 chmod +x grades-watch.sh
 ./grades-watch.sh --test-notify   # verifies the notification setup
@@ -87,7 +87,7 @@ chmod +x grades-watch.sh
 ## 🚀 Usage
 
 ```bash
-./grades-watch.sh --host uni-api.example.com
+clear && cd ~/ && grades-watch/grades-watch.sh --host uni-api.example.com
 ```
 
 [`--host` is the **only required parameter**](#-finding-your---host) — everything else has a sane
@@ -127,6 +127,14 @@ Reset everything (forget credentials + remembered grades):
 ```bash
 rm -rf ~/.grades-watch
 ```
+
+
+Update script:
+
+```bash
+cd ~/grades-watch && git pull
+```
+
 
 ## 🔎 Finding your `--host`
 
